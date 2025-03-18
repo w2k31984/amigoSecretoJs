@@ -18,3 +18,17 @@ Para descargar el proyecto desde GitHub, sigue estos pasos:
 1. Clona el repositorio con el siguiente comando:
    ```bash
    git clone https://github.com/tuusuario/amigo-secreto.git
+2. Abre el archivo index.html en tu navegador web.
+
+🛠️ Estructura del Proyecto
+
+AmigoSecreto/
+│-- index.html
+│-- css/
+│   │-- styles.css
+│-- js/
+│   │-- script.js
+
+📄 Licencia
+
+Este proyecto está bajo la licencia MIT. ¡Siéntete libre de usarlo y modificarlo! 🎉
