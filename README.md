@@ -1,4 +1,4 @@
-# ![Amigo Secreto]
+# Amigo Secreto
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/w2k31984/amigo-secreto)
 ![GitHub stars](https://img.shields.io/github/stars/w2k31984/amigo-secreto?style=social)
