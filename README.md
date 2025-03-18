@@ -1,6 +1,6 @@
 # ![Amigo Secreto](https://via.placeholder.com/150)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/tuusuario/amigo-secreto)
+![GitHub repo size](https://img.shields.io/github.com/w2k31984/amigoSecretoJs)
 ![GitHub stars](https://img.shields.io/github/stars/tuusuario/amigo-secreto?style=social)
 
 # Amigo Secreto 🎁
